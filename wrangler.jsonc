@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "moltbot-sandbox",
+  "account_id": "7bc149169f0804d78f2cc854f73b58d7",
   "main": "src/index.ts",
   "compatibility_date": "2025-05-06",
   "compatibility_flags": ["nodejs_compat"],
